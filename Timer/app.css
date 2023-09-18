@@ -1,0 +1,11 @@
+.timerBackground{
+    background-color: red;
+    height: 25px;
+    width: 200px;
+}
+#timerForground{
+    background-color: green;
+    height: 100%;
+    width:50%;
+    transition: 1.5s;
+}
